@@ -1,3 +1,6 @@
+
+#new push
+
 def encode(num):
     encoded_password = ""
     for char in num:
