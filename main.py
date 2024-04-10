@@ -35,3 +35,12 @@ if __name__=="__main__":
             break
 
 
+
+# Minji's decode function:
+
+# def decoder(encoded_password):
+#     decoded_password = ""
+#     for i in encoded_password:
+#         decoded_digit = str((int(i) - 3) % 10)
+#         decoded_password += decoded_digit
+#     return decoded_password
